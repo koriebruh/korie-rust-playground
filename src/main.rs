@@ -64,6 +64,11 @@ mod test {
         let txt = String::from("EheheEH");
         let txt2 = "ehehe"+ &txt;
     }
+    #[test]
+    fn test_aja() {
+        let txt = String::from("EheheEH");
+        let txt2 = "ehehe"+ &txt;
+    }
 
 
 }
